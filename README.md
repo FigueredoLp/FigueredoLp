@@ -5,7 +5,12 @@ desenvolvimento web. Técnico em Informática com formação em redes de computa
 atualmente cursando Análise e Desenvolvimento de Sistemas. Possuo conhecimentos
 sólidos em HTML, CSS, JavaScript e interesse em aplicar habilidades em projetos
 desafiadores para contribuir com o crescimento de equipes de desenvolvimento
+---
 
+## 🔗 Acesse o Portfólio Online
+➡️ [Clique aqui para visitar o site](https://figueredolp.github.io/)
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-figueredo-lopes/) 
 
